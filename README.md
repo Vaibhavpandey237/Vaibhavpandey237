@@ -1,16 +1,11 @@
-# 👋 Hi, I'm Vaibhav Pandey
-
-### 🚀 MCA Student | Java Full Stack Developer | AI & Backend Enthusiast
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;AI+%26+Computer+Vision+Enthusiast;DSA+%7C+Problem+Solving;Always+Learning+%26+Building+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;AI+%26+Computer+Vision+Enthusiast;DSA+%7C+Problem+Solving;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Vaibhavpandey237&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Vaibhavpandey237?label=Followers&style=flat" alt="GitHub Followers" />
 </p>
-
 ---
 
 ## 🧑‍💻 About Me
