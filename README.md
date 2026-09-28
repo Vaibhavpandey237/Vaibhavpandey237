@@ -1,3 +1,53 @@
+<div align="center">
+
+# 👋 Hi, I'm **Vaibhav Pandey**
+
+### 🚀 Java Full Stack Developer | MCA Student | AI Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Vaibhav+Pandey+%F0%9F%91%8B;Java+Full+Stack+Developer+%E2%98%95;Spring+Boot+%7C+React+%7C+MySQL;AI+%26+Computer+Vision+Enthusiast+%F0%9F%A4%96;DSA+%7C+Problem+Solving+%F0%9F%A7%A0;Building+Projects+%7C+Learning+Every+Day+%F0%9F%9A%80" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Vaibhavpandey237&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/Vaibhavpandey237?label=Followers&style=for-the-badge" />
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```java
+public class VaibhavPandey {
+
+    String role = "Java Full Stack Developer";
+    String education = "MCA Student";
+
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "React.js",
+        "MySQL",
+        "JavaScript",
+        "Python"
+    };
+
+    String[] interests = {
+        "Backend Development",
+        "Full Stack Development",
+        "AI / ML",
+        "DSA"
+    };
+
+    String currentlyLearning() {
+        return "DSA + Spring Boot + System Design";
+    }
+
+    String funFact() {
+        return "I love turning ideas into real projects 🚀";
+    }
+}
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;AI+%26+Computer+Vision+Enthusiast;DSA+%7C+Problem+Solving;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
